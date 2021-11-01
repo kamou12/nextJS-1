@@ -1,4 +1,4 @@
 npm install next
-npm install react
+npm install
 yarn
 yarn export
